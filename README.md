@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ythosa/ythosa/main/wave.gif" width="25px"> Hi there! 
 
-My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in ❄Saint Petersburg and currently studying at [Saint Petersburg State University](https://english.spbu.ru/about). 
+My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in ❄Saint Petersburg and currently studying at [Saint Petersburg State University](https://english.spbu.ru/about)
 
 ### 📫 How to reach me
 
@@ -8,8 +8,13 @@ All my contacts can be found [here](ythosa.github.io)
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=Golang&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Go-informational?style=flat-square&logo=Go&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/gRPC-Informational?style=flat-square&logo=SonarSource&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=Postgresql&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/RabbitMQ-Informational?style=flat-square&logo=rabbitmq&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Redis-Informational?style=flat-square&logo=redis&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ### 📈 GitHub Stats
 <p align="center">
