@@ -4,7 +4,7 @@ My name is Ruslan and I'm a backend software engineer. I'm from Russia, living i
 
 ### 📫 How to reach me
 
-All my contacts can be found [here](ythosa.github.io)
+All my contacts can be found [here](https://ythosa.github.io)
 
 ### 🔧 Technologies & Tools
 
