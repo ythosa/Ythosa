@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ythosa/ythosa/main/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/ythosa/ythosa/main/wave.gif" width="25"> Hi there! 
 
 My name is Ruslan and I'm a backend software engineer. I'm from Russia, living in ❄Saint Petersburg and currently studying at [Saint Petersburg State University](https://english.spbu.ru/about)
 
